@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - RemiChierchia
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - RemiChierchia/remi.github.io
+  - RemiChierchia/EQ2425-Projects
+  - RemiChierchia/Skeletal-Animation
+  - RemiChierchia/Progettio-Elettronica
+  - RemiChierchia/Progetto-Tesi
+  - RemiChierchia/Progetto-ETI
+  - RemiChierchia/Digital_Image_Watermarking_Entropy_DCT_DWT
