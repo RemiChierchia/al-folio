@@ -29,3 +29,8 @@ social: true  # includes social icons at the bottom of the page
 
 I am a **Computer Vision Developer** with a backround in Telecomminication Engineering.
 I was born in Agordo, a little village in the northeastern Italian Dolomites.
+
+I began my studies in **Electronics and Electrotechnics** at a technical high school in Belluno, Italy.
+In September 2017 I enrolled at the University of Trento and started my minor in **Telecommunications and Information Engineering**. I received my Bachelor's Degree with a thesis in **Computer Vision** and **Motion Analysis**.
+
+Whent it came time to choose a Master's programme, I saw the chance for a more startup-focused major that addressed critical entrepreneurial skills. The **European Institute of Innovation & Technology** (**EIT**) provided me with the option to combine **ICT Innovation** courses with a Visual Computing Communication specialisation. As part of a dual degree programme, I spent my first year at the **University of Trento** and the second in **KTH**. With **Tracab** I conducted my master's thesis. **Optical Flow** was used to synchronise cameras in a panoramic configuration, while in the second phase **sub-frame interpolation** was addressed.
