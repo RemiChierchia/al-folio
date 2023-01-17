@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD Student at <a href='https://www.qut.edu.au/'>QUT</a> and <a href='https://www.csiro.au/en/'>CSIRO</a>
 
 profile:
   align: right
   image: eit_grad_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: #555 your office number; 123 your address street; Your City, State 12345 >
+    <p>Office - 1 Technology Ct, Pullenvale QLD 4069, Australia</p>
+    <p>Address - Via Bries 40</p>
+    <p>Agordo 32021, Italy</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -31,6 +31,6 @@ I am a **Computer Vision Developer** with a backround in Telecomminication Engin
 I was born in Agordo, a little village in the northeastern Italian Dolomites.
 
 I began my studies in **Electronics and Electrotechnics** at a technical high school in Belluno, Italy.
-In September 2017 I enrolled at the University of Trento and started my minor in **Telecommunications and Information Engineering**. I received my Bachelor's Degree with a thesis in **Computer Vision** and **Motion Analysis**.
+In September 2017 I enrolled at the [University of Trento](https://www.unitn.it/en) and started my minor in **Telecommunications and Information Engineering**. I received my Bachelor's Degree with a thesis in **Computer Vision** and **Motion Analysis**.
 
-Whent it came time to choose a Master's programme, I saw the chance for a more startup-focused major that addressed critical entrepreneurial skills. The **European Institute of Innovation & Technology** (**EIT**) provided me with the option to combine **ICT Innovation** courses with a Visual Computing Communication specialisation. As part of a dual degree programme, I spent my first year at the **University of Trento** and the second in **KTH**. With **Tracab** I conducted my master's thesis. **Optical Flow** was used to synchronise cameras in a panoramic configuration, while in the second phase **sub-frame interpolation** was addressed.
+Whent it came time to choose a Master's programme, I saw the chance for a more startup-focused major that addressed critical entrepreneurial skills. The [European Institute of Innovation & Technology](https://eit.europa.eu/) (**EIT**) provided me with the option to combine **ICT Innovation** courses with a Visual Computing Communication specialisation. As part of a dual degree programme, I spent my first year at the **University of Trento** and the second in [KTH](https://www.kth.se/en). With **Tracab** I conducted my master's thesis. **Optical Flow** was used to synchronise cameras in a panoramic configuration, while in the second phase **sub-frame interpolation** was addressed.
